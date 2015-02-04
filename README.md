@@ -1,5 +1,5 @@
 # Meteor Starter Kit
-Directed questions or comments to Kevin Chen.
+Directed questions or comments to me.
 
 ### Adding Meteor libraries
 
