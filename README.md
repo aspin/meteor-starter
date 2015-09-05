@@ -21,7 +21,6 @@ meteor add iron:router
 mcreate_function() {
   git clone https://github.com/aspin/meteor-starter $1
   rm -rf $1/.git
-  >$1/README.md
   echo "# $1" >> $1/README.md
 }
 
