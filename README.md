@@ -17,7 +17,7 @@ meteor add iron:router
 
 ### Create Meteor Starter Kit Project
 
-```
+```bash
 mcreate_function() {
   git clone https://github.com/aspin/meteor-starter $1
   rm -rf $1/.git
