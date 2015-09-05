@@ -7,10 +7,23 @@ Search [Atmosphere](https://atmospherejs.com/) for relevant packages.
 
 Bootstrap
 ```
-meteor add mizzao:bootstrap-3
+meteor add twbs:bootstrap
 ```
 
 Router
 ```
 meteor add iron:router
+```
+
+### Create Meteor Starter Kit Project
+
+```
+mcreate_function() {
+  git clone https://github.com/aspin/meteor-starter $1
+  rm -rf $1/.git
+  >$1/README.md
+  echo "# $1" >> $1/README.md
+}
+
+alias mcreate=mcreate_function
 ```
