@@ -6,6 +6,6 @@
 
 */
 
-Template.home.onRendered = () => {
-    // add javascript to be executed when the template first_view is rendered
-};
+Template.home.onRendered(function() {
+  // add javascript to be executed when the template first_view is rendered
+});
