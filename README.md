@@ -5,15 +5,14 @@ Directed questions or comments to me.
 
 Search [Atmosphere](https://atmospherejs.com/) for relevant packages.
 
-Bootstrap
-```
-meteor add twbs:bootstrap
-```
-
-Router
-```
-meteor add iron:router
-```
+By default, the following packages are included:
+ * `twbs:bootstrap`
+ * `aldeed:simple-schema`
+ * `aldeed:collection2`
+ * `kadira:blaze-layout`
+ * `kadira:flow-router`
+ * `stevezhu:lodash`
+ * `mdg:validated-method`
 
 ### Create Meteor Starter Kit Project
 
