@@ -1,5 +1,5 @@
 # Meteor Starter Kit
-Directed questions or comments to kevinjchen94@gmail.com.
+Direct questions or comments to kevinjchen94@gmail.com.
 
 ### Adding Meteor libraries
 
